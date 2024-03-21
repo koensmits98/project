@@ -10,6 +10,7 @@ class Car
 {
   public:
     // Constructor
+    Car(int year, int miles);   
     Car();
 
     // Modifiers (setters)
