@@ -10,7 +10,7 @@ class Car
 {
   public:
     // Constructor
-    Car(2010, 500);
+    Car();
 
     // Modifiers (setters)
     void drive(float numberOfMiles);
